@@ -22,5 +22,5 @@ Sample carousel content and visual execution.
 - KOL Campaign
 
 ## Contact
-LinkedIn: (isi nanti)
-Email: (opsional)
+LinkedIn: www.linkedin.com/in/faridatul-hasanah000
+Email: farida.hasanah000@gmail.com
