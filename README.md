@@ -5,10 +5,12 @@ Social Media Specialist
 Social Media Specialist with experience in social media planning, content strategy, CRM campaign, and campaign execution.
 
 ## Projects
-
-### Content Social Media
 📄 Content Social Media.pptx
-Social media strategy, content planning, and campaign examples.
+📄 Social Media Plan.pptx
+📄 KOL Campaign and Social Media Audit.pptx
+
+### Content Calender
+📁 Content Calender.xlsx
 
 ### Image Carousel
 📁 Image Carousel.zip
